@@ -26,17 +26,15 @@ interests:
 education:
   courses:
   - course: MSc Biodiversity, Ecology, Evolution
-    institution: Université Paris-Saclay
+    institution: [Université Paris-Saclay](https://www.universite-paris-saclay.fr/)
     year: 2021
     url : https://www.universite-paris-saclay.fr/
   - course: BSc Biology-Ecology (3rd year)
-    institution: State University of New York at New Paltz
+    institution: [State University of New York at New Paltz](https://www.newpaltz.edu/)
     year: 2019
-    url : https://www.newpaltz.edu/
   - course: BSc Biology-Ecology (1st and 2nd year)
     institution: [Université Bourgogne Franche-Comté](https://www.univ-fcomte.fr/)
     year: 2018
-    url : https://www.univ-fcomte.fr/
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -48,16 +46,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/vallet_25
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/Lilianvallet
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
