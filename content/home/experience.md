@@ -22,10 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
+  - title: PhD student
+    company: Centre d'Ecologie Fonctionelle et Evolutive (CEFE) - CNRS/IRD
+    company_url: 'https://www.cefe.cnrs.fr/fr/'
+    company_logo: ![CEFE_logo](https://user-images.githubusercontent.com/64427262/138873203-2510de8d-fd1e-4e84-a8de-2fe400a09a7e.png)
+
     location: California
     date_start: '2021-01-01'
     date_end: ''
