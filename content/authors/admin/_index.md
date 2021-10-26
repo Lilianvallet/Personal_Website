@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc Biodiversity, Ecology, Evolution
+  - course: MSc Biodiversity Ecology Evolution
     institution: [Université Paris-Saclay](https://www.universite-paris-saclay.fr/)
     year: 2021
     url : https://www.universite-paris-saclay.fr/
