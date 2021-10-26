@@ -26,25 +26,24 @@ experience:
     company: Centre d'Ecologie Fonctionelle et Evolutive (CEFE) - CNRS/IRD
     company_url: 'https://www.cefe.cnrs.fr/fr/'
     company_logo: ![CEFE_logo](https://user-images.githubusercontent.com/64427262/138873203-2510de8d-fd1e-4e84-a8de-2fe400a09a7e.png)
-
-    location: California
-    date_start: '2021-01-01'
+    location: Montpellier (France)
+    date_start: '2021-10-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+ #   description: |2-
+ #       Responsibilities include:
+ #       
+ #       * Analysing
+ #       * Modelling
+ #       * Deploying
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Internship
+    company: Centre d'Ecologie Fonctionelle et Evolutive (CEFE) - CNRS/IRD
+    company_url: 'https://www.cefe.cnrs.fr/fr/'
+    company_logo: ![CEFE_logo](https://user-images.githubusercontent.com/64427262/138873203-2510de8d-fd1e-4e84-a8de-2fe400a09a7e.png)
+    location: Montpellier (France)
+    date_start: '2021-02-27'
+    date_end: '2021-07-27'
+#    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
