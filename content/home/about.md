@@ -9,7 +9,7 @@ title: ""
 design:
   background:
     image: ""
-  columns: "`2`"
+  columns: "`1`"
 ---
 
 
