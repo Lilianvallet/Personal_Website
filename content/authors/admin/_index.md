@@ -26,14 +26,14 @@ interests:
 education:
   courses:
   - course: MSc Biodiversity Ecology Evolution
-    institution: [Université Paris-Saclay](https://www.universite-paris-saclay.fr/)
+    institution: Université Paris-Saclay
     year: 2021
     url : https://www.universite-paris-saclay.fr/
   - course: BSc Biology-Ecology (3rd year)
-    institution: [State University of New York at New Paltz](https://www.newpaltz.edu/)
+    institution: State University of New York at New Paltz
     year: 2019
   - course: BSc Biology-Ecology (1st and 2nd year)
-    institution: [Université Bourgogne Franche-Comté](https://www.univ-fcomte.fr/)
+    institution: Université Bourgogne Franche-Comté
     year: 2018
 
 # Social/Academic Networking
