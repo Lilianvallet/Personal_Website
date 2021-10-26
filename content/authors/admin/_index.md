@@ -34,7 +34,7 @@ education:
     year: 2019
     url : https://www.newpaltz.edu/
   - course: BSc Biology-Ecology (1st and 2nd year)
-    institution: Université Bourgogne Franche-Comté(https://www.univ-fcomte.fr/)
+    institution: [Université Bourgogne Franche-Comté](https://www.univ-fcomte.fr/)
     year: 2018
     url : https://www.univ-fcomte.fr/
 
