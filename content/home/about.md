@@ -1,12 +1,14 @@
 ---
 widget: about
+active: true
+author: admin
 widget_id: Profile
 headless: true
 weight: 20
-title: Lilian VALLET
-active: true
-author: admin
+title: ""
 design:
   background:
-    image: img-20210817-wa0025.jpg
+    image: ""
+  columns: "`2`"
 ---
+![](img-20210817-wa0025.jpg "Lilian VALLET")
