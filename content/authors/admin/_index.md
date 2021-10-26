@@ -1,39 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Lilian VALLET
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student in Ecophysiology and Pyrogeographie
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Centre d'Ecologie Fonctionelle et Evolutive (CEFE)
+  url: https://www.cefe.cnrs.fr/fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Forest Ecophysiology
+- Pyrogeography
+- Agro-ecosystem Modeling
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc Biodiversity, Ecology, Evolution
+    institution: Université Paris-Saclay
+    year: 2021
+    url : https://www.universite-paris-saclay.fr/
+  - course: BSc Biology-Ecology (3rd year)
+    institution: State University of New York at New Paltz
+    year: 2019
+    url : https://www.newpaltz.edu/
+  - course: BSc Biology-Ecology (1st and 2nd year)
+    institution: Université Bourgogne Franche-Comté
+    year: 2018
+    url : https://www.univ-fcomte.fr/
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
