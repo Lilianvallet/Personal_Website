@@ -1,26 +1,27 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: FirEUrisk
+subtitle : Dissecting risk to prevent extreme wildfires
+summary: A unified European response to an increasing hazard 
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Pyrogeography
+date: "2021-10-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://fireurisk.eu/"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+#  caption: 
   focal_point: Smart
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/FirEUrisk
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=0jcWbghA294&t=9s"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
