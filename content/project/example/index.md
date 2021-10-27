@@ -7,7 +7,7 @@ tags:
 date: "2021-10-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://fireurisk.eu/"
+external_link: ""
 
 image:
 #  caption: 
@@ -22,6 +22,10 @@ links:
   icon_pack: fab
   name: Subsribe
   url: https://www.youtube.com/channel/UC5lkJIYhl0eHofEQ86oVsUA
+- icon: link
+  icon_pack: fas
+  name: Website
+  url: https://fireurisk.eu/
 url_code: ""
 url_pdf: ""
 url_slides: ""
