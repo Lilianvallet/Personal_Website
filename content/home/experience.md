@@ -25,7 +25,7 @@ experience:
   - title: PhD student
     company: Centre d'Ecologie Fonctionelle et Evolutive (CEFE) - CNRS/IRD
     company_url: 'https://www.cefe.cnrs.fr/fr/'
-    company_logo: ![CEFE_logo](https://user-images.githubusercontent.com/64427262/138873203-2510de8d-fd1e-4e84-a8de-2fe400a09a7e.png)
+    company_logo: CEFE_logo
     location: Montpellier (France)
     date_start: '2021-10-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Internship
     company: Centre d'Ecologie Fonctionelle et Evolutive (CEFE) - CNRS/IRD
     company_url: 'https://www.cefe.cnrs.fr/fr/'
-    company_logo: ![CEFE_logo](https://user-images.githubusercontent.com/64427262/138873203-2510de8d-fd1e-4e84-a8de-2fe400a09a7e.png)
+    company_logo: CEFE_logo
     location: Montpellier (France)
     date_start: '2021-02-27'
     date_end: '2021-07-27'
