@@ -20,7 +20,7 @@ links:
   url: https://twitter.com/FirEUrisk
 - icon: youtube
   icon_pack: fab
-  name: Subsribe: 
+  name: Subsribe
   url: https://www.youtube.com/channel/UC5lkJIYhl0eHofEQ86oVsUA
 url_code: ""
 url_pdf: ""
