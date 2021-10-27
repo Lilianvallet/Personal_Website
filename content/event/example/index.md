@@ -59,10 +59,12 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 #projects:
 #- example
----
 
+#THIS below ---
 #{{% callout note %}}
 #Click on the **Slides** button above to view the built-in slides feature.
 #{{% /callout %}}
 
-#Write text here
+#Write text below---
+---
+
