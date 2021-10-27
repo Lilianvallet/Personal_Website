@@ -22,7 +22,6 @@ links:
   icon_pack: fab
   name: Subsribe: 
   url: https://www.youtube.com/channel/UC5lkJIYhl0eHofEQ86oVsUA
-
 url_code: ""
 url_pdf: ""
 url_slides: ""
