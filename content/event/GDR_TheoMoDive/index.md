@@ -26,13 +26,13 @@ all_day: true
 publishDate: "2021-11-08T00:00:00Z"
 
 authors: []
-tags: [Scientific mediation]
+tags: [Seminar]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Center
 
 links:
