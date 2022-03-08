@@ -38,6 +38,10 @@ office_hours:
 #  - 'Wednesday 09:00 to 10:00'
 appointment_url: ''
 contact_links:
+  - icon : file_user
+    icon_pack : fab
+    name : Look at my professional page !
+    link: https://www.cefe.cnrs.fr/fr/recherche/ef/forecast/780-doc/4069-lilian-vallet
   - icon: twitter
     icon_pack: fab
     name: DM Me
