@@ -43,7 +43,7 @@ education:
 social:
 - icon : file_user
   link: https://www.cefe.cnrs.fr/fr/recherche/ef/forecast/780-doc/4069-lilian-vallet
-  ico_pack : fab
+  icon_pack : fab
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
